@@ -1,0 +1,3 @@
+How to kill server on windows 10 
+
+taskkill //F //IM node.exe
